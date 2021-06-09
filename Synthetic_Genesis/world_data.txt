@@ -1,1 +1,10 @@
+[levels]
+rolling_levelid=98
+levelid=98
+
+[general]
+firstlevel=2level
+start=1level
+author=Potatosynthesis
+name=Synthetic Genesis
 
