@@ -30,4 +30,4 @@ Cavern of Oracle's solution is changed as a result.
 # v0.8.1
 Reverted Possessed Statues back to its design in Babasynthesis.    
 Reverted Cavern of Oracle's name back to Cavern of Mystery as in Babasynthesis.    
-Slightly modified Cavern of Mystery
+Slightly modified Cavern of Mystery.
