@@ -22,3 +22,7 @@ Changed Insulation to prevent methods that can break the level apart.
 Updated Map and Chaos.    
 Removed an alternate solution to Phantasm.    
 Updated Encapsulation which made it slightly more difficult overall.
+
+# v0.8.0
+Updated Moonlight and Cavern of Oracle.
+Cavern of Oracle's solution is changed as a result.
