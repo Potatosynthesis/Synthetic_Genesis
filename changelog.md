@@ -25,7 +25,7 @@ Updated Encapsulation which made it slightly more difficult overall.
 
 # v0.8.0
 Updated Moonlight and Cavern of Oracle.    
-Cavern of Oracle's solution is changed as a result.
+Changed Cavern of Oracle's solution.
 
 # v0.8.1
 Reverted Possessed Statues back to its design in Babasynthesis.    
