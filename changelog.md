@@ -35,3 +35,8 @@ Slightly modified Cavern of Mystery.
 # v0.8.2
 Reverted Mystic Cave's name back to Crystal Cave as in Babasynthesis.    
 Removed an alternate solution to Debilitating Heat.
+
+# v0.9.0
+Very minor changes to Crystal Cave and The Bog.    
+Removed the 's' from the name of Abstraction.
+Updated Abstraction and Encapsulation to prevent unintended solutions.
