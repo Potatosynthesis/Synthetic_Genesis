@@ -40,3 +40,7 @@ Removed an alternate solution to Debilitating Heat.
 Very minor changes to Crystal Cave and The Bog.    
 Removed the 's' from the name of Abstraction.    
 Updated Abstraction and Encapsulation to prevent unintended solutions.
+
+# v0.9.1
+Minor changes to Abstraction.
+
