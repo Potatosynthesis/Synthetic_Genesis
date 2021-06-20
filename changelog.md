@@ -44,3 +44,7 @@ Updated Abstraction and Encapsulation to prevent unintended solutions.
 # v0.9.1
 Minor changes to Abstraction.
 
+# v1.0.0
+Slight changes to Debilitating Heat to prevent alternate solutions.
+Revamped Submarine Volcano which was (probably) impossible to solve.
+Adjusted the incorrectly set bonus gate before the true ending.
