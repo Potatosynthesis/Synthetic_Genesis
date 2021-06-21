@@ -48,3 +48,6 @@ Minor changes to Abstraction.
 Slight changes to Debilitating Heat to prevent alternate solutions.    
 Revamped Submarine Volcano which was (probably) impossible to solve.    
 Adjusted the incorrectly set bonus gate before the true ending.
+
+# v1.0.1
+Very minor changes to Submarine Volcano.
