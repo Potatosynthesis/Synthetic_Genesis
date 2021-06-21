@@ -5,6 +5,6 @@ This pack combines my previous two packs Babasynthesis and Babamorphosis. Althou
 
 Due to a change in the mechanics of Revert in Baba Is You version 412, my previous packs are not very playable. This pack acts as the replacement of my previous packs.
 
-To play it: Download Synthetic_Genesis_vX.X.X.zip from the releases. Unzip it inside the Worlds folder of your Baba Is You local files. Currently you have to be in beta to be able to play custom level packs.
+To play it: Download Source Code (zip) from the releases. Unzip and extract it inside the Worlds folder of your Baba Is You local files. Currently you have to be in beta to be able to play custom level packs.
 
 Feel free to share the pack if you find it fun. Though you should not modify and redistribute the pack without my consent.
