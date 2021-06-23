@@ -51,3 +51,6 @@ Adjusted the incorrectly set bonus gate before the true ending.
 
 # v1.0.1
 Very minor changes to Submarine Volcano.
+
+# v1.0.2
+Removed an alternate solution to Debilitating Heat.
