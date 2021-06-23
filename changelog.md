@@ -54,3 +54,6 @@ Very minor changes to Submarine Volcano.
 
 # v1.0.2
 Removed an alternate solution to Debilitating Heat.
+
+# v1.0.3
+Removed an alternate solution to Debilitating Heat again.
