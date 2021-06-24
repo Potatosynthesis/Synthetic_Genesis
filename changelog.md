@@ -57,3 +57,6 @@ Removed an alternate solution to Debilitating Heat.
 
 # v1.0.3
 Removed an alternate solution to Debilitating Heat again.
+
+# v1.0.4
+Removed an alternate solution to Debilitating Heat once more.
