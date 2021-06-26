@@ -60,3 +60,6 @@ Removed an alternate solution to Debilitating Heat again.
 
 # v1.0.4
 Removed an alternate solution to Debilitating Heat once more.
+
+# v1.0.5
+Removed an alternate solution to Volcanic Temple.
