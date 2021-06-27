@@ -13,6 +13,7 @@ Feel free to share the pack if you find it fun. Though you should not modify and
 
 - v1.1.1
   - Made Escape Velocity more difficult by removing the second Shift text.
+  - Merged change log into readme. (Not actually related to the pack content.)
 
 - v1.1.0
   - Fixed Into Orbit and Escape Velocity which could be cheesed easily.
