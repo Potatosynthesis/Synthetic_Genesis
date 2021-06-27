@@ -11,6 +11,9 @@ Feel free to share the pack if you find it fun. Though you should not modify and
 
 ## Change log
 
+- v1.1.1
+  - Made Escape Velocity more difficult by removing the second Shift text.
+
 - v1.1.0
   - Fixed Into Orbit and Escape Velocity which could be cheesed easily.
   - Made the true ending level's mapid empty. (Same as base game's true ending level.)
@@ -22,7 +25,7 @@ Feel free to share the pack if you find it fun. Though you should not modify and
   - Removed an alternate solution to Volcanic Temple.
 
 - v1.0.4
-  - Removed an alternate solution to Debilitating Heat once more.
+  - Removed an alternate solution to Debilitating Heat once more by reducing the number of statues to 3.
 
 - v1.0.3
   - Removed an alternate solution to Debilitating Heat again.
