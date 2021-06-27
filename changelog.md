@@ -66,3 +66,7 @@ Removed an alternate solution to Volcanic Temple.
 
 ### v1.0.6
 Minor changes to Secret Tunnel.
+
+# v1.1.0
+Fixed Into Orbit and Escape Velocity which could be cheesed easily.    
+Made the true ending level's mapid empty. (Same as base game's true ending level.)
