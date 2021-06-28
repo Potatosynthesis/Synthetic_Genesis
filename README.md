@@ -12,7 +12,7 @@ Feel free to share the pack if you find it fun. Though you should not modify and
 ## Change log
 
 - v1.1.2
-  - Removed an alternate solution to Deadly Express.
+  - Removed an unintended solution to Deadly Express.
 
 - v1.1.1
   - Made Escape Velocity more difficult by removing the second Shift text.
@@ -26,22 +26,22 @@ Feel free to share the pack if you find it fun. Though you should not modify and
   - Minor changes to Secret Tunnel.
 
 - v1.0.5
-  - Removed an alternate solution to Volcanic Temple.
+  - Removed an unintended solution to Volcanic Temple.
 
 - v1.0.4
-  - Removed an alternate solution to Debilitating Heat once more by reducing the number of statues to 3.
+  - Changed Debilitating Heat once more by reducing the number of statues to 3.
 
 - v1.0.3
-  - Removed an alternate solution to Debilitating Heat again.
+  - Removed an unintended solution to Debilitating Heat again.
 
 - v1.0.2
-  - Removed an alternate solution to Debilitating Heat.
+  - Removed an unintended solution to Debilitating Heat.
 
 - v1.0.1
   - Very minor changes to Submarine Volcano.
 
 - v1.0.0
-  - Slight changes to Debilitating Heat to prevent alternate solutions.
+  - Slight changes to Debilitating Heat to prevent unintended solutions.
   - Revamped Submarine Volcano which was (probably) impossible to solve.
   - Adjusted the incorrectly set bonus gate before the true ending.
 
@@ -55,7 +55,7 @@ Feel free to share the pack if you find it fun. Though you should not modify and
 
 - v0.8.2
   - Reverted Mystic Cave's name back to Crystal Cave as in Babasynthesis.
-  - Removed an alternate solution to Debilitating Heat.
+  - Removed an unintended solution to Debilitating Heat.
 
 - v0.8.1
   - Reverted Possessed Statues back to its design in Babasynthesis.
@@ -70,7 +70,7 @@ Feel free to share the pack if you find it fun. Though you should not modify and
 - v0.7.0
   - Updated Map to prevent early access to Zenith.
   - Updated Chaos to remove the moon reward from Phantasm.
-  - Removed an alternate solution to Phantasm.
+  - Removed an unintended solution to Phantasm.
   - Updated Encapsulation which made it slightly more difficult overall.
 
 - v0.6.0
@@ -91,4 +91,4 @@ Feel free to share the pack if you find it fun. Though you should not modify and
 - v0.5.0
   - Initial release.
 
-  - Decided not to set it as v1.0.0 in the anticipation of errors or alternate solutions.
+  - Decided not to set it as v1.0.0 in the anticipation of errors or unintended solutions.
