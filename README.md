@@ -11,6 +11,9 @@ Feel free to share the pack if you find it fun. Though you should not modify and
 
 ## Change log
 
+- v1.1.2
+  - Removed an alternate solution to Deadly Express.
+
 - v1.1.1
   - Made Escape Velocity more difficult by removing the second Shift text.
   - Merged change log into readme. (Not actually related to the pack content.)
